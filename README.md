@@ -20,4 +20,4 @@ What has been kept me so interested and motivated into 0day research , and every
 * Get familiar with WinDBG,Immunity , and IDA
 * Don't be as those people who tell you "Try harder" (which in some cases means: I am not going to help you)
 
-![bootcamp](https://github.com/SkyBulk/tuCTF/blob/master/images/bootcamp.png)
+![bootcamp](https://github.com/SkyBulk/the-day-of-nightmares/tree/master/images/bootcamp.png)
