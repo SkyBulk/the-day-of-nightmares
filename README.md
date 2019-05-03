@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-the reason why I'm writting this kind of how-to become you into a exploit writer is because I had in the same boat as you , So I had to research link by link to find the right ones. I call this kind of how-to course from noob to hero covering the basics of penetration testing to the hottest topic such as Sandbox Escape. 
+the reason why I'm writting this kind of how-to become you into a exploit writer is because I was in the same boat as you , So I had to research link by link to find the right ones. I call this kind of how-to course from noob to hero covering the basics of penetration testing to the hottest topic such as Sandbox Escape.
 
 ## The inspiration:
 
