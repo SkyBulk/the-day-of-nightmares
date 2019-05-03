@@ -51,3 +51,33 @@ What has been kept me so interested and motivated into 0day research , and every
 * [Windows Privilege Escalation Fundamentals](http://www.fuzzysecurity.com/tutorials/16.html)
 * [Basic Linux Privilege Escalation](https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 * [Privilege Escalation linux & windows](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html)
+
+## Finding Public Exploits
+* [exploitdb](http://www.exploit-db.com/)
+* [SecurityFocus](http://www.securityfocus.com/)
+
+## Creating Metasploit Payloads
+
+* [Payloads](https://netsec.ws/?p=331)
+
+
+## Web Application Attacks
+
+* [Cross Site Scripting (XSS)](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))
+* [Stealing Cookies and Session Information](https://breakdev.org/sniping-insecure-cookies-with-xss/)
+* [File Local Inclusion](https://highon.coffee/blog/lfi-cheat-sheet/)
+* [Remote File Inclusion](https://securityxploded.com/remote-file-inclusion.php)
+* [MySQL SQL Injection](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
+
+
+
+## Port Redirection and Tunneling
+
+* [SSH Port Forwarding/Tunnelling](https://www.booleanworld.com/guide-ssh-port-forwarding-tunnelling/)
+
+## Bypassing Antivirus Software
+
+* [Veil](https://github.com/Veil-Framework/Veil)
+* [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion)
+* [AV Bypass with Metasploit Templates and Custom Binaries](https://ired.team/offensive-security/av-bypass-with-metasploit-templates)
+
