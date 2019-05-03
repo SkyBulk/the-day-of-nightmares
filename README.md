@@ -53,7 +53,7 @@ What has been kept me so interested and motivated into 0day research , and every
 * [Privilege Escalation linux & windows](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html)
 
 ## Finding Public Exploits
-* [exploitdb](http://www.exploit-db.com/)
+* [Exploitdb](http://www.exploit-db.com/)
 * [SecurityFocus](http://www.securityfocus.com/)
 
 ## Creating Metasploit Payloads
@@ -70,10 +70,19 @@ What has been kept me so interested and motivated into 0day research , and every
 * [MySQL SQL Injection](http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet)
 
 
+## Password Attacks
+* [Cracking Passwords: 11 Password Attack Methods](https://datarecovery.com/rd/cracking-passwords-11-password-attack-methods-work/)
+* [Hashkiller](https://hashkiller.co.uk/)
+* [CrackStation](https://crackstation.net/)
+* [Rule Based Attack](https://www.4armed.com/blog/hashcat-rule-based-attack/)
 
 ## Port Redirection and Tunneling
 
 * [SSH Port Forwarding/Tunnelling](https://www.booleanworld.com/guide-ssh-port-forwarding-tunnelling/)
+* [Introduction to pivoting, Part 1: SSH](https://blog.techorganic.com/2012/10/06/introduction-to-pivoting-part-1-ssh/)
+* [Pivoting](https://www.ivoidwarranties.tech/posts/pentesting-tuts/pivoting/localport-forward/)
+* [Explore Hidden Networks With Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/)
+* [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 
 ## Bypassing Antivirus Software
 
