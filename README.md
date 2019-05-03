@@ -90,7 +90,8 @@ What has been kept me so interested and motivated into 0day research , and every
 * [Phantom-Evasion](https://github.com/oddcod3/Phantom-Evasion)
 * [AV Bypass with Metasploit Templates and Custom Binaries](https://ired.team/offensive-security/av-bypass-with-metasploit-templates)
 
-> At this point you will be able to perfom some basic Penetration testing / Red Team stuff.
+> At this point you will be able to perfom Penetration testing / Red Team stuff as an entry level 
+> I didn't mention The Metasploit Framework, because I want you learn the TECHNIQUES 
 
 ![camp](https://github.com/SkyBulk/the-day-of-nightmares/blob/master/images/camp.jpg)
 
