@@ -171,6 +171,7 @@ What has been kept me so interested and motivated into 0day research , and every
 
 > do an intensive reverse engineering course before jumping the third & last stage.  you will not know the light without it
 
+![power](https://github.com/SkyBulk/the-day-of-nightmares/blob/master/images/power.jpg)
 
 
 ## Heap Spraying
