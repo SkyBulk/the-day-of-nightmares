@@ -268,3 +268,12 @@ What has been kept me so interested and motivated into 0day research , and every
 * [ROP for SMEP bypass](https://rstforums.com/forum/topic/106553-rop-for-smep-bypass/)
 * [Smashing The Browser](https://github.com/demi6od/Smashing_The_Browser)
 * [Browser security mitigations against memory corruption vulnerabilities](https://docs.google.com/document/d/19dspgrz35VoJwdWOboENZvccTSGudjQ_p8J4OPsYztM/edit)
+
+
+#### Twitter
+
+* b33f [(@FuzzySec)](https://twitter.com/FuzzySec)
+* corelanc0d3r [(@corelanc0d3r)](https://twitter.com/corelanc0d3r)
+* yeyintminthuhtut [@yeyint_mth](https://twitter.com/yeyint_mth)
+
+
